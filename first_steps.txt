@@ -1,0 +1,5 @@
+i'm gonna to learn python programming by everyday short exercises.
+
+https://www.flynerd.pl/2018/02/github-dla-zielonych-pierwsze-repozytorium.html
+https://www.flynerd.pl/2017/09/git-dla-poczatkujacych-ucz-sie-interaktywnie.html
+https://help.github.com/en/desktop/contributing-to-projects/adding-a-repository-from-your-local-computer-to-github-desktop
