@@ -1,0 +1,9 @@
+PowerShell Commands:
+ git status
+ git add . ==> dodaje wszystkie pliki w folderze
+ git commit -m "tu daj komentarz do commita"
+ git push
+ 
+ ===============
+ 
+ code .  ==> otwiera aplikacje w danej lokalizacji
